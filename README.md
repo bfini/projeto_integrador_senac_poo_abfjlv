@@ -1,7 +1,15 @@
 # **Projeto Integrador III - SENAC**
 
+## **Integrantes do Grupo 7**
+```
+- Ana Cariane De Oliveira Grion
+- Bruna Regina Fini
+- Filipe Lima Guedes Chagas
+- Julio Cesar Souza Da Rocha Filho
+- Luisa Mariana Santos E Souza
+- Valéria Oliveira Silva
+```
 ---
-
 ## **Introdução**
 
 Este repositório contém a documentação e os protótipos da **segunda entrega** do Projeto Integrador III do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas** do SENAC. O projeto consiste na **modelagem e implementação de um sistema orientado a objetos**, abrangendo funcionalidades essenciais como:
